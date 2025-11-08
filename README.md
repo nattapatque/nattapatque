@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Bankok, Thailand
 * ✉️  You can contact me at [nattapat.daengkongkaew@gmail.com](mailto:nattapat.daengkongkaew@gmail.com)
-* 🧠  I'm learning Python, AI
+* 🧠  I'm learning Dev
 
 ### Skills
 
